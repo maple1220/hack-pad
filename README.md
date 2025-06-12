@@ -1,6 +1,5 @@
 # hack-pad
-my very first concept of a plan
-decided to make a hack pad alongside with my MUCH more experienced friends and followed the hackpad turtorial: https://hackpad.hackclub.com/guide
+I decided to make a hack pad alongside with my MUCH more experienced friends and followed the hackpad turtorial: https://hackpad.hackclub.com/guide
 
 <DAY 1: 3 hours>
 made my first ever schematic!
