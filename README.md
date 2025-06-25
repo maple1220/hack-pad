@@ -8,3 +8,13 @@ made my first ever schematic!
 Most the time was me trying to figure out all the controls and settings I could play with.... the actual schematic took 20 minutes
 Moved on to making it a a PCB board and learned how to route (almost died)
 ![image](https://github.com/user-attachments/assets/cb201889-3d91-417a-bfd8-f0d94ce95724)
+
+<DAY 2: 2 hours>
+I used onshape for my CAD design since it's the program I'm most familiar with and my laptop can't handle anything else. I followed the turtorial for the bottom of my case and learned how to get the right measurements for my buttons. I was thinking about how I wanted to make this project more personalized and came up with the idea of making this hackpad a mini keyboard for watergirl from the game fireboy and watergirl. Naturally, I played around with the spline tool to add some funky lines to imitate water around the buttons.
+![image](https://github.com/user-attachments/assets/17ccf052-5b37-42bc-b18f-7a3cf53f647d)
+![image](https://github.com/user-attachments/assets/c27db611-287f-44ee-a9b2-0d3302959758)
+
+<DAY 3: 20 minutes>
+made my firmware... should not have taken as long as it took me to make it.
+
+FININSHED!!
