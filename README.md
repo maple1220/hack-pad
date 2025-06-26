@@ -1,20 +1,20 @@
-# hack-pad
-I decided to make a hack pad alongside with my MUCH more experienced friends and followed the hackpad turtorial: https://hackpad.hackclub.com/guide
+# Watergirl mini keyboard
+This is my first actual project I've made in Hack Club and it was definitely an experience with lots of confusion and a spinkle of rage (with KiCad). Nonetheless, I'm proud of my itty bitty keyboard for the girls. I've designed the keys to be W, A, D, and SPACE so it can be used to play watergirl in the game fireboy and water girl
+# SCHEMATIC
+![image](https://github.com/user-attachments/assets/c55d30d1-f11f-4871-976e-1973ac91cee6)
 
-<DAY 1: 3 hours>
-made my first ever schematic!
-![{FB7EE125-9ECF-4125-85F7-174D9A803C61}](https://github.com/user-attachments/assets/0942a054-6721-41ab-b920-0fbd30212847)
+# PCB
+![image](https://github.com/user-attachments/assets/187695d8-8332-47ad-94d0-dcfcffe2cd71)
+![image](https://github.com/user-attachments/assets/1239b650-d6e9-4ef2-ae44-8b90b097c581)
 
-Most the time was me trying to figure out all the controls and settings I could play with.... the actual schematic took 20 minutes
-Moved on to making it a a PCB board and learned how to route (almost died)
-![image](https://github.com/user-attachments/assets/cb201889-3d91-417a-bfd8-f0d94ce95724)
+# CAD
+![image](https://github.com/user-attachments/assets/f836fbe1-81c8-489e-a2fb-da248226710f)
+![image](https://github.com/user-attachments/assets/67d82876-dfe5-4de5-84ae-fdb3fd155eaa)
+![image](https://github.com/user-attachments/assets/1ba18b73-0681-46f8-a627-211da88d2419)
 
-<DAY 2: 2 hours>
-I used onshape for my CAD design since it's the program I'm most familiar with and my laptop can't handle anything else. I followed the turtorial for the bottom of my case and learned how to get the right measurements for my buttons. I was thinking about how I wanted to make this project more personalized and came up with the idea of making this hackpad a mini keyboard for watergirl from the game fireboy and watergirl. Naturally, I played around with the spline tool to add some funky lines to imitate water around the buttons.
-![image](https://github.com/user-attachments/assets/17ccf052-5b37-42bc-b18f-7a3cf53f647d)
-![image](https://github.com/user-attachments/assets/c27db611-287f-44ee-a9b2-0d3302959758)
-
-<DAY 3: 20 minutes>
-made my firmware... should not have taken as long as it took me to make it.
-
-FININSHED!!
+# COMPONENTS
+1x printed bottom part
+1x printed top part
+1x XIAO-RP2040-DIP
+4x Cherry MX Switches
+2x SK6812 MINI LED
