@@ -1,7 +1,9 @@
-**TITLE: Watergirls only
+---
+TITLE: Watergirls only
 AUTHOR: Maple
-DESCRIPTION: A mini keyboard specifically made for watergirlies when playing fireboy and watergirl. Watergirls deserve their own territory and need to keep their hands clean from the regular keyboard.
-CREATED AT: 2025-06-11**
+DESCRIPTION: A mini keyboard specifically made for watergirlies when playing fireboy and watergirl.
+CREATED AT: 2025-06-11
+---
 
 I decided to make a hack pad alongside with my MUCH more experienced friends and followed the hackpad turtorial: https://hackpad.hackclub.com/guide
 
