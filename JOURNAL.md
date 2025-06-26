@@ -6,7 +6,7 @@ I decided to make a hack pad alongside with my MUCH more experienced friends and
 
 <DAY 1: 3 hours>
 made my first ever schematic!
-https://hc-cdn.hel1.your-objectstorage.com/s/v3/fd1c65034551bce00a2ec8d87d15b64778dddb07_image.png
+![image](https://github.com/user-attachments/assets/8b391e31-e0f7-4883-89c1-5920b09b58f3)
 
 Most the time was me trying to figure out all the controls and settings I could play with.... the actual schematic took 20 minutes
 Moved on to making it a a PCB board and learned how to route (almost died)
