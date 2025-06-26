@@ -13,8 +13,8 @@ This is my first actual project I've made in Hack Club and it was definitely an 
 ![image](https://github.com/user-attachments/assets/1ba18b73-0681-46f8-a627-211da88d2419)
 
 # COMPONENTS
-1x printed bottom part
-1x printed top part
-1x XIAO-RP2040-DIP
-4x Cherry MX Switches
-2x SK6812 MINI LED
+- 1x printed bottom part
+- 1x printed top part
+- 1x XIAO-RP2040-DIP
+- 4x Cherry MX Switches
+- 2x SK6812 MINI LED
