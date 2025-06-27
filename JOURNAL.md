@@ -35,4 +35,12 @@ Made my firmware... should not have taken as long as it took me to make it.
 
 **20 minutes**
 
+**RESUBMITTING CHANGES**
+
+![image](https://github.com/user-attachments/assets/025341b5-0d98-4dd5-a45a-783f518cc615)
+
+![image](https://github.com/user-attachments/assets/bb6e56c2-8845-4390-b991-7e2c928a87be)
+
+**10 minutes**
+
 FININSHED!!
